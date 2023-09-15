@@ -1,0 +1,53 @@
+@charset "UTF-08";
+
+body{
+text-align: center;
+}
+
+.animal-info {
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.onca {
+    background-color: #000264; /* Cor de fundo para a onça-pintada */
+    border: none,#000264;
+    padding: 10px 20px;
+}
+
+.leao {
+    background-color: #ff5e00; /* Cor de fundo para o leão */
+    border: none,#ff5e00;
+    padding: 10px 20px;
+
+}
+
+.tigre {
+    background-color: #005207; /* Cor de fundo para o tigre */
+    border: none,#005207;
+    padding: 10px 20px;
+
+}
+
+.guepardo {
+    background-color: #7c0000; /* Cor de fundo para o guepardo */
+    border: none,#7c0000;
+    padding: 10px 20px;
+
+}
+
+.gato {
+    background-color: #007ff7; /* Cor de fundo para o gato */
+    border: none,#007ff7;
+    padding: 10px 10px;
+}
+
+
+img{
+    height: 190px;
+    width: 250px;
+   
+}
+
+
